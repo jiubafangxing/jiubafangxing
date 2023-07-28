@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jiubafangxing</h1>
 <h3 align="center">A developer from china</h3>
 
-- 🔭 I’m currently working on **enterprise gourp in https://www.hqwx.com/**
+- 🔭 I’m currently working on **enterprise group in https://www.hqwx.com/**
 
 - 🌱 I’m currently learning **APUE**
 
