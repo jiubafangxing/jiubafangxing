@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on **enterprise group in https://www.hqwx.com/**
 
-- 🌱 I’m currently learning **[cs61a](https://inst.eecs.berkeley.edu/~cs61a/fa20/)**
+- 🌱 I’m currently learning **[左程云](https://www.bilibili.com/video/BV13g41157hK/?vd_source=01bcc97a242157abad97a9308d58f05f)**
+- 🌱 learned **[cs61a](https://inst.eecs.berkeley.edu/~cs61a/fa20/)**
 - 🌱 I’m have learned **[apue](https://www.bilibili.com/video/BV1yJ411S7r6/?spm_id_from=333.337.search-card.all.click&vd)**
 
 - 📫 How to reach me **jiubafangxing@gmail.com**
