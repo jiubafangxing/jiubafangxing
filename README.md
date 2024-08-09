@@ -2,9 +2,9 @@
 <h3 align="center">A developer from china</h3>
 
 - 🔭 I’m currently working on **enterprise group in https://www.hqwx.com/**
-
-- 🌱 I’m currently learning **[左程云](https://space.bilibili.com/8888480/channel/series)**
+- 🌱 I’m currently learning **[MIT6.824](https://www.youtube.com/@6.824)**
 - 🌱 I’m currently learning **[Go语言学习笔记](https://weread.qq.com/web/bookDetail/b2332230813ab7c24g0149aa)**
+- 🌱  have learned **[左程云](https://space.bilibili.com/8888480/channel/series)**
 - 🌱 I have learned **[cs61a](https://inst.eecs.berkeley.edu/~cs61a/fa20/)**
 - 🌱 I have learned **[apue](https://www.bilibili.com/video/BV1yJ411S7r6/?spm_id_from=333.337.search-card.all.click&vd)**
 
